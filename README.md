@@ -1,5 +1,5 @@
 
-![Logo](https://logonoid.com/images/android-studio-logo.png)
+![Logo](https://image.winudf.com/v2/image/ZXUuYW5kcm9pZHN0dWRpby5hbmRyb2lkc3R1ZGlvX2ljb25fMF84MDllYzQxNg/icon.png?w=170&fakeurl=1&type=.png)
 
 
 # Pemrograman Bergerak
