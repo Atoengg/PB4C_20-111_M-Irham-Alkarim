@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Mountain Apps</string>
+    <string name="home">Home</string>
+    <string name="explore">Dashboard</string>
+    <string name="subscription">Notification</string>
+    <string name="library">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mountain_title">Mountain Title</string>
+    <string name="mountain_description">Mountain Description</string>
+
+    <string name="arjuna">Gunung Arjuna</string>
+    <string name="Sumeru">Gunung Sumeru</string>
+    <string name="Argopuro">Gunung Argopuro</string>
+    <string name="buthak">Gunung Buthak</string>
+    <string name="Raung">Gunung Raung</string>
+    <string name="Penanggungan">Gunung Penanggungan</string>
+</resources>
